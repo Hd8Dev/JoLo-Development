@@ -26,3 +26,6 @@ if Name == "tymkot12345"
     end
 end
 
+function ScriptLoadFPS()
+print('lowered down fps ( loading purposes only)')
+end
