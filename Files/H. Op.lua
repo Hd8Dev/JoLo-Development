@@ -19,5 +19,10 @@ wait(1)
      print('This interface is owner only | <404 Input>')
   else
     print("Loading...")
-  end
+if Name == "tymkot12345"
+  loadstring(game:HttpGet((raw.githubuser.com/HDDev/JoLoOwnerInterface/ref/heads/main.lua)))()
+    
+    end
+    end
 end
+
