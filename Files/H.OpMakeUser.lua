@@ -2,3 +2,7 @@ loadstring(game:HttpGet((https://raw.githubusercontent.com/Hd8Dev/JoLo-Developme
 
 
 pcall:Warning()
+
+
+--[[ Main 
+
